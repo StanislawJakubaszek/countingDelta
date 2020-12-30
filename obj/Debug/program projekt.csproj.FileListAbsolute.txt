@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\projekt prog\program projekt\bin\Debug\program projekt.exe.config
+C:\Users\User\Desktop\projekt prog\program projekt\bin\Debug\program projekt.exe
+C:\Users\User\Desktop\projekt prog\program projekt\bin\Debug\program projekt.pdb
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program projekt.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program_projekt.Properties.Resources.resources
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program projekt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program projekt.exe
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program projekt.pdb
+C:\Users\User\Desktop\projekt prog\program projekt\obj\Debug\program_projekt.Form.resources
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\bin\Debug\program projekt.exe.config
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\bin\Debug\program projekt.exe
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\bin\Debug\program projekt.pdb
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program projekt.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program_projekt.Form.resources
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program_projekt.Properties.Resources.resources
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program projekt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program projekt.exe
+C:\Users\User\Desktop\pulpit\studia\projekt prog\program projekt\obj\Debug\program projekt.pdb
